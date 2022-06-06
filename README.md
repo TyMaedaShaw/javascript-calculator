@@ -1,3 +1,3 @@
 # javascript-calculator
 
-My first Javascript Project. I created a calculator using HTML, CSS, JS and React. 
+My first published Javascript Project. I created this calculator using HTML, CSS, JS and React.
